@@ -5,44 +5,72 @@
 ## Contents
 <!-- TOC -->
 
-- [Contents](#contents)
-- [Beginner Essentials](#beginner-essentials)
-- [Dictionaries](#dictionaries)
-      - [Yomichan](#yomichan)
-      - [Online](#online)
-      - [E-Reader Dictionaries](#e-reader-dictionaries)
-- [Software](#software)
-- [Thesauri](#thesauri)
-- [Learning the Language](#learning-the-language)
-      - [Vocabulary](#vocabulary)
-      - [Grammar](#grammar)
-      - [Listening](#listening)
-      - [Chữ Nôm](#ch%E1%BB%AF-n%C3%B4m)
-      - [Courses](#courses)
-      - [Textbooks](#textbooks)
-      - [Radio & Podcasts](#radio--podcasts)
-      - [Radio](#radio)
-      - [Podcasts](#podcasts)
-- [News](#news)
-      - [Technology / Science](#technology--science)
-      - [Movies, Anime, Gaming](#movies-anime-gaming)
-      - [Society, Culture, Comedy](#society-culture-comedy)
-      - [History](#history)
-      - [Vietnamese](#vietnamese)
-      - [News for Children, High Schoolers](#news-for-children-high-schoolers)
-      - [小学校](#%E5%B0%8F%E5%AD%A6%E6%A0%A1)
-      - [高校](#%E9%AB%98%E6%A0%A1)
-      - [Video News](#video-news)
-      - [Women's](#womens)
-      - [VTubers](#vtubers)
-      - [Quizzes](#quizzes)
-      - [Advanced Learning](#advanced-learning)
-- [Reading Material](#reading-material)
-      - [Books & Lightnovels](#books--lightnovels)
-      - [Other](#other)
-- [Vietnamese Sign Language](#vietnamese-sign-language)
-- [Meditation](#meditation)
-- [Other](#other)
+- [Danh sách](#betonamgo-awesome)
+    - [Contents](#contents)
+    - [Beginner Essentials](#beginner-essentials)
+    - [Dictionaries](#dictionaries)
+        - [Yomichan](#yomichan)
+        - [Online](#online)
+        - [E-Reader Dictionaries](#e-reader-dictionaries)
+    - [Software](#software)
+    - [Thesauri](#thesauri)
+    - [Learning the Language](#learning-the-language)
+        - [Vocabulary](#vocabulary)
+        - [Grammar](#grammar)
+        - [Listening](#listening)
+        - [Chữ Nôm](#ch%E1%BB%AF-n%C3%B4m)
+        - [Courses](#courses)
+        - [Textbooks](#textbooks)
+        - [Radio & Podcasts](#radio--podcasts)
+            - [Radio](#radio)
+            - [Podcasts](#podcasts)
+    - [News](#news)
+        - [Technology / Science](#technology--science)
+        - [Fiction](#fiction)
+        - [Horror / True Crime](#horror--true-crime)
+        - [Leisure](#leisure)
+        - [Art](#art)
+        - [Movies, Anime, Gaming](#movies-anime-gaming)
+        - [Society, Culture, Comedy](#society-culture-comedy)
+        - [History](#history)
+        - [Vietnamese](#vietnamese)
+        - [Sleep, Easy Listening, For Children, Meditation](#sleep-easy-listening-for-children-meditation)
+        - [Editorials](#editorials)
+        - [News for Children, High Schoolers](#news-for-children-high-schoolers)
+            - [小学校](#%E5%B0%8F%E5%AD%A6%E6%A0%A1)
+            - [高校](#%E9%AB%98%E6%A0%A1)
+        - [Video News](#video-news)
+        - [Entertainment](#entertainment)
+        - [Women's](#womens)
+        - [LGBTQ+](#lgbtq)
+        - [Gourmet + Recipes](#gourmet--recipes)
+        - [Health, Fitness, Sports](#health-fitness-sports)
+        - [International](#international)
+        - [VTubers](#vtubers)
+        - [Weather](#weather)
+        - [Games & Apps](#games--apps)
+        - [Quizzes](#quizzes)
+        - [Advanced Learning](#advanced-learning)
+    - [Reading Material](#reading-material)
+        - [Books & Lightnovels](#books--lightnovels)
+        - [Other](#other)
+    - [Vietnamese Sign Language](#vietnamese-sign-language)
+    - [Dialect Study](#dialect-study)
+        - [Northern Dialect](#northern-dialect)
+        - [Central Dialect](#central-dialect)
+        - [Southern Dialect](#southern-dialect)
+    - [Culture & Life](#culture--life)
+    - [Music](#music)
+    - [Art](#art)
+    - [Information](#information)
+    - [Scholarships](#scholarships)
+    - [Work](#work)
+    - [Video Game Translation](#video-game-translation)
+    - [Truyện ma and Folklore](#truy%E1%BB%87n-ma-and-folklore)
+    - [Misc](#misc)
+    - [Videos](#videos)
+    - [Meditation](#meditation)
+    - [Other](#other)
 
 
 ## Beginner Essentials
@@ -83,7 +111,6 @@ Other
 - [※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/) - Spaced repetition flashcard program. A must have. It is tricky to use at first. 
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
 
-    
 ## Thesauri
 - [Từ điển từ đồng nghĩa tiếng Việt](https://tudiendongnghia.com/)
 
@@ -124,6 +151,7 @@ Other
 - [Book2](https://www.goethe-verlag.com/book2/EM/) - Phrasebook course with audio
 
 ### Radio & Podcasts
+
 #### Radio
 - [VietnamRadio.org](https://vietnamradio.org/)
 - [Tieng Viet 123 (Vietnamese for beginners): Giáo trình tiếng Việt cho người nước ngoài (Vietnamese books for foreigners) ](https://www.amazon.com/Tieng-Viet-123-Vietnamese-beginners-ebook/dp/B072N7GKJX)
@@ -143,14 +171,17 @@ Other
 - [Tinhte.vn](https://tinhte.vn/)
 - [Quản trị mạng](https://quantrimang.com/)
 
-<!-- ### Fiction
+### Fiction
 Chưa có
 
 ### Horror / True Crime
+Chưa có
 
 ### Leisure
+Chưa có
 
-### Art -->
+### Art
+Chưa có
 
 ### Movies, Anime, Gaming
 - [chuuniotaku](https://chuuniotaku.com/tin-tuc/)
@@ -170,52 +201,53 @@ Chưa có
 - [ngonngu.net](https://ngonngu.net/)
 - [Vietnamdrive](https://www.vietnamdrive.com/vn/)
 
-<!-- 
+
 ### Sleep, Easy Listening, For Children, Meditation 
+Chưa có
 
 ### Editorials 
--->
+Chưa có
 
 ### News for Children, High Schoolers
 
 #### 小学校
-- Hết ý tưởng rồi - ;-;
+Chưa có
 
 #### 高校
 - [Học đường - Báo hoa học trò](https://hoahoctro.tienphong.vn/hht-hoc-duong/)
 
 ### Video News
 - [VTV24](https://www.youtube.com/c/vtv24/videos)
-- []()
 
-<!-- 
 ### Entertainment
-- []() 
--->
+Chưa có
 
 ### Women's
 - [Báo phụ nữ](https://www.phunuonline.com.vn/)
 - [Eva.vn](https://eva.vn/)
 
-<!-- ### LGBTQ+
-- []()
+### LGBTQ+
+Chưa có
 
 ### Gourmet + Recipes
-- []()
+Chưa có
 
 ### Health, Fitness, Sports
-- []()
+Chưa có
 
-### International -->
+### International
+Chưa có
 
 ### VTubers
 - [Tổng hợp Vtuber Tiếng Việt](https://virtualyoutuber.fandom.com/vi/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Ti%E1%BA%BFng_Vi%E1%BB%87t)
 
-<!-- 
+
 ### Weather
+Chưa có
 
 ### Games & Apps 
--->
+Chưa có
+
 
 ### Quizzes
 - [Free Vietnamese Language Quiz](https://testyourlanguage.com/vietnamese-quiz)
@@ -239,36 +271,47 @@ Chưa có
 ## Vietnamese Sign Language
 - [Thủ ngữ - Ngôn ngữ ký hiệu bằng tay](https://thuviengdpt.info/thu-ngu-ngon-ngu-ky-hieu-bang-tay/)
 - [Danh mục ngôn ngữ ký hiệu](https://qipedc.moet.gov.vn/dictionary)
-<!-- 
+
 ## Dialect Study
 
 ### Northern Dialect
+Chưa có
 
 ### Central Dialect
+Chưa có
 
 ### Southern Dialect
+Chưa có
 
 ## Culture & Life
+Chưa có
 
 ## Music
+Chưa có
 
 ## Art
+Chưa có
 
 ## Information
+Chưa có
 
 ## Scholarships
+Chưa có
 
 ## Work
+Chưa có
 
 ## Video Game Translation
+Chưa có
 
-## Youkai and Folklore
-
-## Keijiban
+## Truyện ma and Folklore
+Chưa có
 
 ## Misc
+Chưa có
 
-## Videos -->
+## Videos
+Chưa có
 
 ## Meditation
 - [Fonos - Tự Chữa Lành](https://www.youtube.com/@Fonos-Tuchualanh)
